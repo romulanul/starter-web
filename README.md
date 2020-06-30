@@ -16,6 +16,10 @@ This is a simple web projecte, deployment can be on any web server on even local
 
 Have some more lines here
 
+## How to contribute
+
+Please fork this repo and then issue pull request
+
 ### Copyright
 
 2020 Git.Training
